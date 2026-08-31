@@ -13,7 +13,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![snake gif](https://github.com/thaparomeo15-creator/thaparomeo15-creator/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/thaparomeo15-creator/thaparomeo15-creator/blob/output/github-snake.svg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=thaparomeo15-creator&icon=10&color=0)](https://visitcount.itsvg.in)
