@@ -17,7 +17,9 @@
 ---
 [![](https://komarev.com/ghpvc/?username=thaparomeo15-creator&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/4XDjR7Y2GcwAAAAC/eren-freedom.gif" width="400"/>
-</div>
-
+<p align="center">
+2
+<img src="https://github.com/thaparator/thaparomeo15-creator/raw/main/eren.gif
+3
+</p>
+Show more lines
