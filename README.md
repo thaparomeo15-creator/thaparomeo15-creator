@@ -1,26 +1,3 @@
-# <div align="center">
-# 
-# ██████╗  ██████╗ ███╗   ███╗███████╗ ██████╗ 
-# ██╔══██╗██╔═══██╗████╗ ████║██╔════╝██╔═══██╗
-# ██████╔╝██║   ██║██╔████╔██║█████╗  ██║   ██║
-# ██╔══██╗██║   ██║██║╚██╔╝██║██╔══╝  ██║   ██║
-# ██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗╚██████╔╝
-# ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝ ╚═════╝ 
-#
-# **A PILGRIM OF ROME ≈ ROMEO**
-#
-# </div>
-
----
-
-## 👋 About Me
-
-Builder from the Himalayas. Passionate about breaking algorithms, one commit at a time. I work with solutions that address real-world problems. 🌍
-
-**Location:** Kathmandu, Nepal 🇳🇵  
-**Pronouns:** he/him
-
----
 
 ## 🌐 Connect With Me
 
@@ -71,7 +48,7 @@ Builder from the Himalayas. Passionate about breaking algorithms, one commit at 
 
 ---
 
-## ✨ Random Dev Quote
+## ✨ Random Quote
 
 <div align="center">
 
