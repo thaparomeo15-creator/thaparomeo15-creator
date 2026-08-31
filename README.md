@@ -1,3 +1,20 @@
+
+<div align="center">
+
+```text
+██████╗  ██████╗ ███╗   ███╗███████╗ ██████╗ 
+██╔══██╗██═══██╗████╗ ████║██╔════╝██═══██╗
+██████╔╝██║   ██║██╔████╔██║█████╗  ██║   ██║
+██╔══██╗██║   ██║██║╚██╔╝██║██╔══╝  ██║   ██║
+██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗╚██████╔╝
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝ ╚═════╝ 
+```
+
+
+</div>
+
+
+
 # 💫 About Me:
 🎓 Computer Engineering Student 💻<br>⚙️ Exploring Software Development, AI & Emerging Technologies 🤖<br>🚀 Building • Learning • Experimenting with Code
 
