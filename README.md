@@ -18,11 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thaparomeo15-creator&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=thaparomeo15-creator&icon=10&color=13)](https://visitcount.itsvg.in)
 
 
   
@@ -31,5 +26,11 @@
 ![snake gif](https://github.com/thaparomeo15-creator/thaparomeo15-creator/blob/output/github-snake.svg)
 
 ---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thaparomeo15-creator&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=thaparomeo15-creator&icon=10&color=13)](https://visitcount.itsvg.in)
 
 
