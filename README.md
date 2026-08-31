@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="27648708" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/eren-freedom-eren-yeager-attack-on-titan-aot-gif-27648708">Eren Freedom GIF</a>from <a href="https://tenor.com/search/eren-gifs">Eren GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://tenor.com/view/eren-freedom-eren-yeager-attack-on-titan-aot-gif-27648708" width="400" alt="anime"/>
+</div>
 ## 🌐 Socials:
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/romeothapa.magar.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ro_meoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/romeo-thapa-2190223a3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thaparomeo15/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/user/Ready-Drink-8648/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RomeoThapa84090) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thaparomeo15@gmail.com) 
 
