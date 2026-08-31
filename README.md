@@ -15,13 +15,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thaparomeo15-creator&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+<img src="eren-freedom.gif" width="400"/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
 
   
-<img src="eren-freedom.gif" width="400"/>
 
 ![snake gif](https://github.com/thaparomeo15-creator/thaparomeo15-creator/blob/output/github-snake.svg)
 
