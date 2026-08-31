@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/view/eren-freedom-eren-yeager-attack-on-titan-aot-gif-27648708" width="400" alt="anime"/>
+  <img src="https://media1.tenor.com/m/4XDjR7Y2GcwAAAAC/eren-freedom.gif" width="400" alt="anime"/>
 </div>
 
 ## 🌐 Socials:
