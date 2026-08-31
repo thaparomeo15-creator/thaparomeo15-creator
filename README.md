@@ -1,3 +1,4 @@
+<img src="eren-freedom.gif" width="400"/>
 
 ## 🌐 Socials:
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/romeothapa.magar.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/romeo_thapa_magar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romeo-thapa-magar-90a827268) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/thaparomeo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/romeothapa15)
@@ -16,7 +17,5 @@
 ![snake gif](https://github.com/thaparomeo15-creator/thaparomeo15-creator/blob/output/github-snake.svg)
 
 ---
-
-<img src="eren-freedom.gif" width="400"/>
 
 [![](https://komarev.com/ghpvc/?username=thaparomeo15-creator&icon=10&color=0)](https://visitcount.itsvg.in)
